@@ -22,12 +22,18 @@ Design files and instructions for the Brains On Board MiniBee quad rotor platfor
 ## Step 2: solder motors to Asgard
 ![Alt text](MiniBee_build_2.png?raw=true "Title")
 
-## Step 3: mount the Pi and solder the orientation sensor 
+# Step 3: vibration mount the Asgard
+
 ![Alt text](MiniBee_build_3.png?raw=true "Title")
 
-## Step 4: mount the camera and lens
+
+
+## Step 4: mount the Pi and solder the orientation sensor 
 ![Alt text](MiniBee_build_4.png?raw=true "Title")
 
-## Step 5: mount the mirror
+## Step 5: mount the camera and lens
 ![Alt text](MiniBee_build_5.png?raw=true "Title")
+
+## Step 6: mount the mirror
+![Alt text](MiniBee_build_6.png?raw=true "Title")
 

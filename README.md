@@ -8,9 +8,9 @@ Design files and instructions for the Brains On Board MiniBee quad rotor platfor
 - DYS 3020 Propellers
 - Raspberry Pi Zero W
 - Raspberry Pi Zero camera (50 degree)
-- Macro lens ()
+- Macro lens (e.g. https://amzn.to/2I5PW7b)
 - Bubblescope 360 panoramic lens or other hemispherical mirror
-- Adafruit BNO055 Orientation Sensor
+- Adafruit BNO055 Orientation Sensor or other
 - MicroUSB connector
 - XBee3 2.4Ghz
 - Many M2 7mm hex screws

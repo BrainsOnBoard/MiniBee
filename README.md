@@ -22,7 +22,7 @@ Design files and instructions for the Brains On Board MiniBee quad rotor platfor
 ## Step 2: solder motors to Asgard
 ![Alt text](MiniBee_build_2.png?raw=true "Title")
 
-# Step 3: vibration mount the Asgard
+## Step 3: vibration mount the Asgard
 
 ![Alt text](MiniBee_build_3.png?raw=true "Title")
 

@@ -42,7 +42,7 @@ The mirror can e removed from the bubblescope by snapping the stem of the scope 
 
 ## Step 7: connect the XBee3 module
 The best way to connect the XBee3 to the Asgard is by purchasing a JST-1.0 4pin pre wired cable, and then soldering the ends onto teh MiniBee. The required connections are TX, RX, 3.3V power and GND. IMPORTANT: UART6 of the Asgard is the only one that can supply 3.3V powwer, and you must break the trace on the jumper pads that default the power to 5V and resolder for 3.3V, as per the Asgard information sheet [here](https://i.pinimg.com/originals/00/42/5b/00425ba4a4a2082930bc3ae4fa60683c.jpg). Make sure to test the volteage with a multimeter prior to connecting the XBee3 or you will destroy it!
-![Alt text](MiniBee_build_6.png?raw=true "Title")
+![Alt text](MiniBee_build_7.png?raw=true "Title")
 
 ## Step 8: power the Pi
 The next step simply involves connecting power to the Raspberry Pi Zero W. This can be done from the Asgard MicroUSB port using a patch cable, or by soldering a MicroUSB connector for 5V and GND to the corresponding pads on the Asgard.
